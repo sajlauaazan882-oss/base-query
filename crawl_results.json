@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "message": "Successfully crawled 1 pages from https://www.datacamp.com/tutorial/what-is-inside-a-database-sql. The HTML content has been saved and should be analyzed to understand the website's structure, design patterns, navigation, content organization, and visual elements for creating a similar website.",
+  "website_url": "https://www.datacamp.com/tutorial/what-is-inside-a-database-sql",
+  "total_pages": 1,
+  "combined_summary": "页面 1: https://www.datacamp.com/tutorial/what-is-inside-a-database-sql\n摘要: 该网页是DataCamp网站的“404 Not Found”错误页面，表明访问的SQL数据库教程内容未能找到。\n\n1.  **主要内容和主题：** 这是一个错误提示页面，同时包含了网站的促销和导航功能。它未能展示预期的“What is inside a database SQL”教程内容。\n2.  **重要的文章标题和链接：** 页面标题为“Learn Data Science and AI Online | DataCamp”，核心信息为“Oops, something went wrong”和“404 | Not Found”。重要链接有：DataCamp首页（`https://www.datacamp.com/`）、50%折扣促销链接（`https://www.datacamp.com/promo/december-2025`）、登录/注册（如`https://www.datacamp.com/users/sign_in`）以及多语言选项（多数指向各自的404页面）。\n3.  **关键信息和数据：** 页面顶部突出显示“50% off unlimited learning”限时促销，并附有详细倒计时（例如：1天15小时18分钟06秒）。\n4.  **网页结构和布局特点：** 页面以顶部显眼的促销横幅和倒计时为特色。页面包含标准导航栏，带有品牌Logo、多语言选择器、登录和注册按钮。错误信息“404 | Not Found”居中显示，下方有“More Information”和“Found an Error?”等辅助链接。整体布局清晰，但主要内容缺失。\n",
+  "file_paths": [
+    {
+      "page_number": 1,
+      "url": "https://www.datacamp.com/tutorial/what-is-inside-a-database-sql",
+      "html_file_path": "/workspace/sql_knowledge_base/website_crawl/pages/page_0_www.datacamp.com_tutorial_what-is-inside-a-database-sql.html",
+      "summary": "该网页是DataCamp网站的“404 Not Found”错误页面，表明访问的SQL数据库教程内容未能找到。\n\n1.  **主要内容和主题：** 这是一个错误提示页面，同时包含了网站的促销和导航功能。它未能展示预期的“What is inside a database SQL”教程内容。\n2.  **重要的文章标题和链接：** 页面标题为“Learn Data Science and AI Online | DataCamp”，核心信息为“Oops, something went wrong”和“404 | Not Found”。重要链接有：DataCamp首页（`https://www.datacamp.com/`）、50%折扣促销链接（`https://www.datacamp.com/promo/december-2025`）、登录/注册（如`https://www.datacamp.com/users/sign_in`）以及多语言选项（多数指向各自的404页面）。\n3.  **关键信息和数据：** 页面顶部突出显示“50% off unlimited learning”限时促销，并附有详细倒计时（例如：1天15小时18分钟06秒）。\n4.  **网页结构和布局特点：** 页面以顶部显眼的促销横幅和倒计时为特色。页面包含标准导航栏，带有品牌Logo、多语言选择器、登录和注册按钮。错误信息“404 | Not Found”居中显示，下方有“More Information”和“Found an Error?”等辅助链接。整体布局清晰，但主要内容缺失。"
+    }
+  ]
+}
